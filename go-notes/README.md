@@ -5,7 +5,7 @@ ___
 
 ___
 ## Hello World
-___
+
 ```go
 package main
 
@@ -15,9 +15,9 @@ func main() {
 	fmt.Println("HELLO WORLD")
 }
 ```
-
-## Variables
 ___
+## Variables
+
 ```go
 package main
 
@@ -205,7 +205,7 @@ ___
 
 ## Loops
 
-```
+```go
 package main
 
 import "fmt"
