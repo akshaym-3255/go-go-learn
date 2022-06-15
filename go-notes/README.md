@@ -366,3 +366,13 @@ func main() {
 	}
 }
 ```
+___
+
+## Struct
+
+```go 
+
+```
+
+## go MOD file 
+
